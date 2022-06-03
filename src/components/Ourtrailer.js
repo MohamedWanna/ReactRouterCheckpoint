@@ -9,7 +9,7 @@ const Ourtrailer = ({ movies }) => {
   return (
     <div>
       <iframe
-         width="1430"
+         width="1500"
          height="500"
         src={movie.trailer}
         title="YouTube video player"
